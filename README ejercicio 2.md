@@ -27,7 +27,7 @@ Información del dataset:
 
 La estructura del data set es la siguiente:
 
- #   Column             Non-Null Count  Dtype  
+      Column             Non-Null Count  Dtype  
 ---  ------             --------------  -----  
  0   id                 5110 non-null   int64  
  1   gender             5110 non-null   object 
@@ -75,4 +75,4 @@ Con los mismos valores se tiene una probabilidad de 3%
 Agoritmo de red neuronal:
 Con los mismos valores se tiene una probabilidad de 2%
 
-En conclusion se puede establecer que se puede entrenar el ML para poder definir la probabilidad de STROKE.
+Con los tres modelos se obtiene una probabilida de stroke entre el 2% y el 3 %.
